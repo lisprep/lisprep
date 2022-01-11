@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />
-<img align="left" alt="pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
-<img align="left" alt="Jupyter" width="26px" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
+<img align="left" alt="pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/github/explore/blob/main/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/blob/main/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png" />
